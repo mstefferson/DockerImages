@@ -1,3 +1,9 @@
+fastai==0.7.0
+jupyter==1.0.0
+jupyter-client==5.2.3
+jupyter-console==5.2.0
+jupyter-core==4.4.0
+ipython==6.4.0
 scikit-learn==0.20.1
 pandas==0.23.4
 Keras==2.2.4
