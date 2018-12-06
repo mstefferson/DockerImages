@@ -1,0 +1,3 @@
+#!/bin/bash
+docker image build -t mstefferson/flask_bot:latest -f Dockerfile .
+
