@@ -13,3 +13,6 @@ Keras==2.2.4
 tensorflow==1.11.0
 pytest==4.0.1
 coverage==4.5.2
+pytictoc==1.4.0
+seaborn==0.9.0
+statsmodels==0.9.0

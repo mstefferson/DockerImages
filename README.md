@@ -1,6 +1,6 @@
 # DockerImages
 
-My baseline docker images for machine learning project, flask apps, and (hopefully) more. Feel free to pull or build the image of your choice. However, you may want to see the example on how to build a project on top of one of these images.
+My baseline docker images for machine learning project (CPU/GPU), flask apps, and (hopefully) more. Feel free to pull or build the image of your choice. However, you may want to see the example on how to build a project on top of one of these images.
 
 ## Pre-requests
 * [Docker](https://docs.docker.com/install/)
@@ -44,7 +44,7 @@ Then build the image
 Here is some basic info on what comes with each image
 
 #### ml_bot
-I wanted to build an image that had all of the main tools. Is it necessary to have both Pytorch and Keras if you're only using one? Of course not! I have been bouncing between both tools, and I just wanted to have a complete image that I could use for various things that can be ran on a CPU/GPU! I made build individual images if there is interest. Here's what you get:
+I wanted to build an image that had all of the main tools that could be ran on a cpu or gpu. Is it necessary to have both Pytorch and Keras if you're only using one? Of course not! I have been bouncing between both tools, and I just wanted to have a complete image that I could use for various things that can be ran on a CPU/GPU! I made build individual images if there is interest. Here's what you get:
 * PyTorch
 * Tensorflow
 * Keras
