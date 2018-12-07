@@ -141,4 +141,3 @@ I don't like Amazon so I haven't the set-up on there yet. Should be straight for
 
 * Streamlit
 * Docker compose?
-* Example from
